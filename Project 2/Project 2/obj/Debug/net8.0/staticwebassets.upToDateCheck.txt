@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\data\city_orders.csv
+wwwroot\data\daily_streams.csv
+wwwroot\data\genre_revenue.csv
+wwwroot\data\monthly_sales.csv
+wwwroot\data\price_vs_rating.csv
